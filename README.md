@@ -9,7 +9,7 @@ find desired hexadecimal address based on it's private key
 
 ### Run script
 
-`$python find_eth_addr.py`
+`$ python find_eth_addr.py`
 
 ## Create virtual environment in Linux;
 **If pip is not in your system:**
