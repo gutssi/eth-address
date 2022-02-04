@@ -6,10 +6,10 @@ find desired hexadecimal address based on it's private key
 ## Create virtual environment in Linux;
 **If pip is not in your system:**
 
-`$ sudo apt-get install python-pip
-$ pip install virtualenv
-$ virtualenv --version
-$ virtualenv virtualenv_name`
+`$ sudo apt-get install python-pip`
+`$ pip install virtualenv`
+`$ virtualenv --version`
+`$ virtualenv virtualenv_name`
 
 **A folder named virtualenv_name will be created. 
 If you want to create a virtualenv for specific python version,type:**
