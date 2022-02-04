@@ -19,7 +19,7 @@ If you want to create a virtualenv for specific python version,type:**
 
 `$ virtualenv -p /usr/bin/python3 virtualenv_name` 
 
-**OR**
+**or**
 
 `$ virtualenv -p /usr/bin/python2.7 virtualenv_name`
 
