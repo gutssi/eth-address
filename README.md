@@ -3,6 +3,14 @@ find desired hexadecimal address based on it's private key
 
 
 
+### Install requirements:
+
+`$ pip install -r requirements.txt`
+
+### Run script
+
+`$python find_eth_addr.py`
+
 ## Create virtual environment in Linux;
 **If pip is not in your system:**
 
@@ -31,3 +39,4 @@ If you want to create a virtualenv for specific python version,type:**
 **You can deactivate using:**
 
 `$ deactivate`
+
