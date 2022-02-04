@@ -2,7 +2,7 @@ from eth_account import Account
 import secrets, sys
 
 words = 'words.txt'                           # txt file that contains all words wanted to be found in the address
-
+                                              # text accepted hexadecimal ( a-f, 0-9) 
 print('=' * (80-14))
 
 while True:
