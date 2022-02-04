@@ -1,9 +1,9 @@
 # eth-address
-find desired hexadecimal address based on it's private key 
+`find desired hexadecimal address based on it's private key`
 
 
 
-**Create virtual environment in Linux;
+##**Create virtual environment in Linux;
 If pip is not in your system:**
 
 $ sudo apt-get install python-pip
